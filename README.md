@@ -124,4 +124,4 @@ As part of the development process for this application, the following AI tools 
 
 ## 🎓 AI Certification
 
-I am currently enrolled in an AI certification program, which is in progress. The certification will be completed as part of my continuous learning and skill development.
+I am currently enrolled in an AI certification program at Genaversity, which is in progress. The certification will be completed as part of my continuous learning and skill development.
